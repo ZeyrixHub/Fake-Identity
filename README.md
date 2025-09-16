@@ -1,7 +1,3 @@
-Hier ist eine komplette **`README.md`**, inklusive klarer **Installation-Anleitung** für Windows **und** Linux.
-Du kannst den Text so kopieren und in eine Datei `README.md` neben deiner `fake.py` legen.
-
-
 # Fake Identity Generator
 
 This Python script creates **purely fictional** identities (names, emails,
